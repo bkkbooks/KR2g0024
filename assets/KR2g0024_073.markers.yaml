@@ -1188,6 +1188,7 @@ markers:
   - {type: indent, offset: 3782, content: 　, id: KR2g0024_krp_073-bkkind182}
   - {type: substitution, offset: 3790, original: 㑹, replacement: 會, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-0002}}
   - {type: punctuation, offset: 3792, content: (, id: KR2g0024_krp_073-bkkpn1}
+  - {type: voice, offset: 3792, length: 4, name: note, id: n1}
   - {type: punctuation, offset: 3794, content: /, id: KR2g0024_krp_073-bkkpn2}
   - {type: punctuation, offset: 3796, content: ), id: KR2g0024_krp_073-bkkpn3}
   - {type: 'kr:newline', offset: 3796, content: '
@@ -1229,6 +1230,7 @@ markers:
   - {type: line-break, offset: 3917, content: '', id: KR2g0024_WYG_073-14a07}
   - {type: indent, offset: 3917, content: 　, id: KR2g0024_krp_073-bkkind188}
   - {type: punctuation, offset: 3936, content: (, id: KR2g0024_krp_073-bkkpn4}
+  - {type: voice, offset: 3936, length: 7, name: note, id: n2}
   - {type: punctuation, offset: 3937, content: /, id: KR2g0024_krp_073-bkkpn5}
   - {type: punctuation, offset: 3938, content: ), id: KR2g0024_krp_073-bkkpn6}
   - {type: 'kr:newline', offset: 3938, content: '
@@ -1734,6 +1736,7 @@ markers:
   - {type: line-break, offset: 5552, content: '', id: KR2g0024_WYG_073-20a01}
   - {type: indent, offset: 5552, content: 　, id: KR2g0024_krp_073-bkkind263}
   - {type: punctuation, offset: 5565, content: (, id: KR2g0024_krp_073-bkkpn10}
+  - {type: voice, offset: 5565, length: 4, name: note, id: n3}
   - {type: punctuation, offset: 5567, content: /, id: KR2g0024_krp_073-bkkpn11}
   - {type: punctuation, offset: 5569, content: ), id: KR2g0024_krp_073-bkkpn12}
   - {type: 'kr:newline', offset: 5569, content: '
@@ -1821,4 +1824,4 @@ markers:
 
       ', id: KR2g0024_krp_073-bkkkrnewl359}
   back: []
-hash: sha256:25a178d7fc5dedeb6833b3b0493a6342eef8b3065d669c8e75f44add76711df8
+hash: sha256:78c558899a746f7a005426409aac0ad4744647ea207160746d01ea7cb8e08f78
